@@ -4134,6 +4134,15 @@ p.send-status .icon {
     text-align: center !important;
   }
 }
+.socialss-links {
+  width: 12rem;
+  text-align: center;
+  position: fixed;
+  left: 50%;
+  top: 2%;
+  background-color: rgba(255, 255, 255, 0.498039);
+  padding: 0.2em;
+}
 
 @media (min-width: 1200px) {
   .text-lg-left {
@@ -4148,3 +4157,4 @@ p.send-status .icon {
 }nter !important;
   }
 }
+
